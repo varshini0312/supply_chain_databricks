@@ -1,0 +1,9 @@
+warehouse_id,warehouse_name,city,state_region,country,capacity_units,warehouse_type
+WH01,Dallas Distribution Center,Dallas,Texas,United States,120000,Regional DC
+WH02,Atlanta Fulfilment Hub,Atlanta,Georgia,United States,90000,Fulfilment
+WH03,Chicago Central DC,Chicago,Illinois,United States,150000,Central DC
+WH04,Rotterdam EU Hub,Rotterdam,South Holland,Netherlands,110000,Regional DC
+WH05,Frankfurt Cross-Dock,Frankfurt,Hesse,Germany,60000,Cross-Dock
+WH06,Bengaluru South Asia DC,Bengaluru,Karnataka,India,95000,Regional DC
+WH07,Singapore APAC Hub,Singapore,Singapore,Singapore,85000,Regional DC
+WH08,Monterrey LATAM DC,Monterrey,Nuevo Leon,Mexico,70000,Fulfilment

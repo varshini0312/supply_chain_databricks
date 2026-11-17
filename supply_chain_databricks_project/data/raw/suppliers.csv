@@ -1,0 +1,61 @@
+supplier_id,supplier_name,country,city,tier,avg_lead_time_days,reliability_score,payment_terms,onboarded_date,is_active
+SUP0001,Helix Logistics 1,China,Guangzhou,Preferred,30,0.743,Net90,2018-11-25,True
+SUP0002,Summit Logistics 2,Poland,Gdansk,Strategic,11,0.885,Net60,2021-04-23,True
+SUP0003,Prime Trading 3,Vietnam,Ho Chi Minh City,Preferred,28,0.877,Net60,2019-02-18,True
+SUP0004,Atlas Supply 4,Germany,Hamburg,Approved,11,0.826,Net30,2022-06-21,True
+SUP0005,Helix Logistics 5,Turkey,Istanbul,Approved,9,0.843,Net30,2020-09-13,True
+SUP0006,Zenith Supply 6,India,Bengaluru,Preferred,22,0.833,Net60,2020-11-14,True
+SUP0007,Prime Manufacturing 7,Turkey,Istanbul,Approved,14,0.805,Net60,2018-08-10,True
+SUP0008,Zenith Logistics 8,United States,Chicago,Approved,4,0.905,Net45,2020-01-02,True
+SUP0009,Zenith Manufacturing 9,Poland,Gdansk,Approved,10,0.85,Net30,2019-10-12,True
+SUP0010,Prime Logistics 10,China,Guangzhou,Preferred,24,0.816,Net30,2018-02-15,True
+SUP0011,Atlas Manufacturing 11,Vietnam,Hanoi,Preferred,27,0.858,Net60,2021-08-20,False
+SUP0012,Helix Supply 12,India,Bengaluru,Strategic,19,0.881,Net30,2020-09-15,True
+SUP0013,Orion Industries 13,Vietnam,Ho Chi Minh City,Preferred,25,0.762,Net30,2021-06-30,True
+SUP0014,Orion Supply 14,China,Shanghai,Approved,31,0.775,Net60,2022-01-01,True
+SUP0015,Prime Logistics 15,United States,Atlanta,Strategic,7,0.759,Net30,2018-06-03,True
+SUP0016,Apex Supply 16,Mexico,Monterrey,Approved,7,0.802,Net45,2019-01-04,True
+SUP0017,Apex Supply 17,United States,Dallas,Preferred,9,0.938,Net30,2019-04-14,True
+SUP0018,Prime Trading 18,China,Guangzhou,Strategic,23,0.924,Net30,2019-12-03,True
+SUP0019,Orion Components 19,Vietnam,Ho Chi Minh City,Approved,31,0.99,Net90,2022-09-10,True
+SUP0020,Pinnacle Industries 20,Mexico,Guadalajara,Preferred,5,0.87,Net60,2020-04-27,True
+SUP0021,Nova Industries 21,Mexico,Monterrey,Preferred,5,0.876,Net60,2017-07-24,True
+SUP0022,Pinnacle Industries 22,Poland,Warsaw,Approved,6,0.949,Net60,2023-07-05,True
+SUP0023,Vertex Manufacturing 23,Turkey,Istanbul,Approved,11,0.797,Net90,2022-07-25,False
+SUP0024,Pinnacle Trading 24,India,Chennai,Preferred,25,0.891,Net60,2017-11-15,True
+SUP0025,Vertex Logistics 25,Vietnam,Hanoi,Approved,29,0.83,Net60,2021-04-01,True
+SUP0026,Apex Components 26,Germany,Munich,Preferred,9,0.853,Net45,2018-04-10,True
+SUP0027,Nova Trading 27,China,Guangzhou,Preferred,26,0.88,Net30,2017-08-04,True
+SUP0028,Apex Supply 28,China,Guangzhou,Strategic,27,0.821,Net45,2022-12-14,True
+SUP0029,Summit Components 29,Poland,Gdansk,Approved,9,0.766,Net30,2022-11-19,True
+SUP0030,Zenith Industries 30,Vietnam,Hanoi,Approved,25,0.817,Net45,2017-08-27,True
+SUP0031,Nova Components 31,United States,Atlanta,Preferred,10,0.82,Net60,2020-11-26,True
+SUP0032,Atlas Components 32,Vietnam,Ho Chi Minh City,Strategic,24,0.73,Net45,2018-04-14,True
+SUP0033,Summit Industries 33,Turkey,Istanbul,Approved,9,0.793,Net60,2021-12-12,True
+SUP0034,Pinnacle Supply 34,Vietnam,Hanoi,Preferred,34,0.798,Net45,2018-05-15,True
+SUP0035,Summit Trading 35,India,Chennai,Preferred,23,0.91,Net30,2019-12-12,True
+SUP0036,Helix Components 36,India,Chennai,Strategic,19,0.913,Net45,2022-08-09,True
+SUP0037,Vertex Supply 37,Poland,Gdansk,Preferred,6,0.902,Net30,2017-11-21,True
+SUP0038,Pinnacle Logistics 38,India,Chennai,Preferred,17,0.963,Net30,2023-06-07,True
+SUP0039,Apex Supply 39,United States,Atlanta,Approved,2,0.767,Net60,2019-08-12,True
+SUP0040,Summit Manufacturing 40,United States,Dallas,Strategic,9,0.7,Net45,2020-05-12,True
+SUP0041,Prime Logistics 41,India,Pune,Strategic,21,0.99,Net45,2020-06-03,True
+SUP0042,Nova Supply 42,Germany,Munich,Preferred,13,0.921,Net45,2021-10-18,True
+SUP0043,Zenith Logistics 43,Vietnam,Hanoi,Approved,28,0.779,Net45,2023-04-12,True
+SUP0044,Zenith Supply 44,Germany,Hamburg,Preferred,10,0.962,Net30,2018-01-28,True
+SUP0045,Apex Supply 45,Mexico,Monterrey,Approved,3,0.764,Net45,2020-10-26,True
+SUP0046,Apex Industries 46,Poland,Gdansk,Approved,6,0.822,Net45,2019-11-11,True
+SUP0047,Orion Supply 47,Vietnam,Hanoi,Preferred,27,0.99,Net45,2022-11-02,True
+SUP0048,Helix Components 48,Turkey,Istanbul,Strategic,14,0.84,Net45,2019-06-01,True
+SUP0049,Summit Manufacturing 49,United States,Dallas,Approved,2,0.79,Net30,2017-05-31,True
+SUP0050,Helix Logistics 50,India,Chennai,Preferred,18,0.822,Net60,2018-12-10,True
+SUP0051,Vertex Components 51,India,Bengaluru,Approved,23,0.839,Net60,2017-12-18,True
+SUP0052,Apex Supply 52,United States,Chicago,Preferred,8,0.768,Net30,2023-09-04,True
+SUP0053,Orion Manufacturing 53,Germany,Hamburg,Preferred,10,0.781,Net90,2023-06-19,True
+SUP0054,Apex Components 54,Turkey,Izmir,Approved,10,0.81,Net30,2017-03-01,True
+SUP0055,Apex Logistics 55,Poland,Warsaw,Preferred,9,0.937,Net90,2021-11-06,False
+SUP0056,Nova Components 56,United States,Atlanta,Strategic,2,0.776,Net60,2019-10-04,True
+SUP0057,Summit Components 57,United States,Atlanta,Approved,8,0.893,Net30,2020-09-29,True
+SUP0058,Zenith Supply 58,India,Pune,Preferred,18,0.838,Net60,2019-08-07,True
+SUP0059,Prime Manufacturing 59,China,Guangzhou,Approved,23,0.827,Net45,2023-09-23,True
+SUP0060,Orion Industries 60,China,Shanghai,Approved,26,0.725,Net45,2023-02-24,True
